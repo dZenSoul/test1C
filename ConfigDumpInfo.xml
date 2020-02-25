@@ -1,7 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
 	<ConfigVersions>
-		<Metadata name="Catalog.Справочник1" id="988a637a-1dd2-41d6-8608-41cf10ba176e" configVersion="a8ac4a11114c4143ae8e7ab7395e59e200000000"/>
+		<Metadata name="Catalog.Справочник1" id="988a637a-1dd2-41d6-8608-41cf10ba176e" configVersion="2b94c822ad2f4b4fbf41cdc2e9b8847000000000">
+			<Metadata name="Catalog.Справочник1.TabularSection.ТабличнаяЧасть1" id="17bd9596-a23d-4250-999b-9f9be01b57bf"/>
+			<Metadata name="Catalog.Справочник1.TabularSection.ТабличнаяЧасть1.Attribute.Реквизит1" id="297e1521-f046-4c21-9b1b-0e742bc538d6"/>
+			<Metadata name="Catalog.Справочник1.TabularSection.ТабличнаяЧасть1.Attribute.Реквизит2" id="7e4f9b1f-ba45-4947-96f9-7923eff26596"/>
+			<Metadata name="Catalog.Справочник1.Attribute.Реквизит2" id="abf216fc-0dad-4135-aa42-3a98f2db15b2"/>
+			<Metadata name="Catalog.Справочник1.Attribute.Реквизит1" id="f1db0023-29ac-48f1-ada2-c576a90d59aa"/>
+		</Metadata>
+		<Metadata name="Catalog.Справочник1.Form.ФормаЭлемента" id="849ce2e5-f652-4a68-8cb3-0bb5e15b6a63" configVersion="efd52bb7558b09498bc0dec649a95bbc00000000"/>
+		<Metadata name="Catalog.Справочник1.Form.ФормаЭлемента.Form" id="849ce2e5-f652-4a68-8cb3-0bb5e15b6a63.0" configVersion="951e1018e83f1c4e842f547cdd72c71500000000"/>
 		<Metadata name="Catalog.Справочник2" id="f867f9f5-b305-46cf-a5be-c037203e0ff6" configVersion="ac530a33184a984e8946e197502bede800000000"/>
 		<Metadata name="Configuration.Конфигурация" id="d1cbcb49-2a1d-4411-8df5-c255c45b5508" configVersion="73df1ca8393e6f4db0bf40194e95ac9c00000000"/>
 		<Metadata name="Document.Документ1" id="a17c9dcb-357c-4e3b-b7ae-25b4473786a6" configVersion="5c0fade24886314da45c50ef9af3394000000000"/>
